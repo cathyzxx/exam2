@@ -79,10 +79,8 @@
         },
         data() {
             return {
-                //url: "http://39.99.185.180:3000/albums",
+                url: "http://39.99.185.180:3000/albums",
                 //url:"albums",
-                url: "albums",
-                url: "albums",
                 maxId: 2,
                 book: {name: '', price: ''},
                 dialogVisible: false,
